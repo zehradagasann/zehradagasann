@@ -11,7 +11,7 @@
 
 - 📫 How to reach me  **www.linkedin.com/in/zehra-dağaşan-514178323**
 
-- 📄 Know about my experiences  [https://github.com/zehradagasann/zehradagasann/blob/main/Cv_Zehra.pdf](https://github.com/zehradagasann/zehradagasann/blob/main/Cv_Zehra.pdf)
+- 📄 Know about my experiences  [https://github.com/zehradagasann/zehradagasann/blob/main/Cv_Zehra.pdf](https://github.com/zehradagasann/zehradagasann/blob/main/Cv_Zehra_Da%C4%9Fa%C5%9Fan.pdf)
 
 - ⚡ Fun fact **I turn coffee into code**
 
