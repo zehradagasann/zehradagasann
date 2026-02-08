@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zehra Dağaşan</h1>
-<h3 align="center">Software engineering student</h3>
+<h3 align="center">Software Engineering Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zehradagasann&label=Profile%20views&color=0e75b6&style=flat" alt="zehradagasann" /> </p>
 
@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **JAVA,C#**
 
-- 📫 How to reach me **www.linkedin.com/in/zehra-dağaşan-514178323**
+- 📫 How to reach me  **www.linkedin.com/in/zehra-dağaşan-514178323**
 
-- 📄 Know about my experiences [https://github.com/zehradagasann/zehradagasann/blob/main/Cv_Zehra.pdf](https://github.com/zehradagasann/zehradagasann/blob/main/Cv_Zehra.pdf)
+- 📄 Know about my experiences  [https://github.com/zehradagasann/zehradagasann/blob/main/Cv_Zehra.pdf](https://github.com/zehradagasann/zehradagasann/blob/main/Cv_Zehra.pdf)
 
 - ⚡ Fun fact **I turn coffee into code**
 
