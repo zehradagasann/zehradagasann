@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Hackathon projects**
 
-- 💬 Ask me about **JAVA,C#**
+- 💬 Ask me about **JAVA,C#,PYTHON**
 
 - 📫 How to reach me             **www.linkedin.com/in/zehra-dağaşan-514178323**
 
