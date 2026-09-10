@@ -31,18 +31,21 @@
 
 ### 🛠 Languages and Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,python,java,cs,cpp,ros,linux,git,github,vscode,visualstudio" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,py,java,cs,cpp,flutter,ros,git,github,linux,vscode,visualstudio" />
+  </a>
+  <img src="https://img.shields.io/badge/Gazebo-orange?style=for-the-badge" />
 </p>
-
----
 
 ### 🌐 Connect With Me
 <p align="left">
-<a href="www.linkedin.com/in/zehra-dağaşan-514178323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:zehradagasan09@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/<kullanici-adiniz>" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:<email-adresiniz>@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
-
----
 
 ### 📌 Featured Interests
 - 📱 **Mobile & Web:** Building seamless UIs with React and React Native.
