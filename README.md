@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zehra Dağasan</h1>
-<h3 align="center">Software Engineer | Robotics & Full-Stack Developer</h3>
+<h3 align="center">Software Engineer | Robotics & Mobile Developer</h3>
 
 <p align="center">
   <strong>Python, ROS2, React and React Native Enthusiast</strong>
