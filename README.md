@@ -39,10 +39,10 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/<kullanici-adiniz>" target="_blank">
+  <a href="https://www.linkedin.com/in/<zehradagasann>" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:<email-adresiniz>@gmail.com">
+  <a href="mailto:<zehradagasan09>@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
