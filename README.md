@@ -16,18 +16,20 @@
 
 ---
 
-### 📈 GitHub Statistics
+## 📈 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zehradagasann&show_icons=true&theme=tokyonight" alt="Zehra's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehradagasann&layout=compact&theme=tokyonight" alt="Top Langs" width="48%" />
+  <a href="https://github.com/zehradagasann">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zehradagasann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  </a>
+  <a href="https://github.com/zehradagasann">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zehradagasann&layout=compact&theme=tokyonight" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zehradagasann&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zehradagasann&theme=tokyonight" />
 </p>
-
----
 
 ### 🛠 Languages and Tools
 <p align="left">
